@@ -1,0 +1,3 @@
+- npm install @flashbots/ethers-provider-bundle@0.6.2 dotenv@16.4.7 ethers@5.7.2
+- nano .env
+- node bot.js
